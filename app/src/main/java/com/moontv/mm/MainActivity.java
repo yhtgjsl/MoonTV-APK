@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         initWebView();
 
         // 加载目标URL
-        webView.loadUrl("https://moontv.jsdh.us.kg/");
+        webView.loadUrl("http://yshome.cool:8088");
     }
 
     // 初始化WebView设置
